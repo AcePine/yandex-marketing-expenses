@@ -5,7 +5,7 @@ We go into our Exploratory Data Analysis process to clean the data and prepare t
 
 From there, we begin to dive into the cleaned data - finding multiple ways to help Yandex optimize expenses by finding retention rates, average purchase sizes and more.
 
-**Conclusion**
+# Conclusion
 
 After extensive analysis of the data, we have some obvious conclusions about where the marketing team should focus their resources.
 Firstly, source #3 costs us, by far, the most money - and the return on that marketing investment is negative! Sources #1 and to a lesser extent #2 cost us less money, and yield a much higher return. Specifically, we recommend the marketing team focus most, if not all of the source #3 spend on source #1.
